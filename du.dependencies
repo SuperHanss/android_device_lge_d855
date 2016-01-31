@@ -1,0 +1,25 @@
+[
+  {
+    "repository": "DirtyUnicorns/android_external_connectivity",
+    "target_path": "external/connectivity",
+    "branch": "m-caf"
+  },
+  {
+    "remote": "github",
+    "repository": "SuperHanss/android_device_lge_g3-common",
+    "target_path": "device/lge/g3-common",
+    "branch": "m-caf"
+  },
+  {
+    "remote": "github",
+    "repository": "SuperHanss/android_kernel_lge_g3",
+    "target_path": "kernel/lge/g3",
+    "branch": "m-caf"
+  },
+  {
+    "remote": "github",
+    "repository": "SuperHanss/android_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch": "m-caf"
+  }
+]
